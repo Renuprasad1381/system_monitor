@@ -1,0 +1,11 @@
+==== 2025-08-20_09-18-12 ====
+./test.sh renu prasad
+nano test.sh
+head -4 test.sh
+tail -4 test.sh
+touch test2.sh
+chmod 700 test2.sh
+head -4 test.sh >> test2.sh
+test2.sh
+cat test2.sh
+cat test.sh
